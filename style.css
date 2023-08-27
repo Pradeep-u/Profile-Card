@@ -5,7 +5,10 @@ body{
     justify-content: center;
     align-items: center;
     display: flex;
-    background: #eee;
+    background: url(background.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
   }
   
   .card{
