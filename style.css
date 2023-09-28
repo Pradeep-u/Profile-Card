@@ -5,7 +5,7 @@ body{
     justify-content: center;
     align-items: center;
     display: flex;
-    background: url(background.gif);
+    background: url(background-1.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -76,14 +76,14 @@ body{
   .icons a{
     text-decoration: none;
     font-size: 15px;
-    color: #00F2FF;
+    color: black;
     padding: 0 14px;
     transition-duration: 0.4s;
     transition-property: transform;
   }
   
   .icons a:hover{
-    color: #FF00FF;
+    color: grey;
     transform: scale(1.5);
   }
         
